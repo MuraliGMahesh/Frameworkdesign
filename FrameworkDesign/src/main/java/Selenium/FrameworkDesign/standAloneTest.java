@@ -1,5 +1,4 @@
 package Selenium.FrameworkDesign;
-
 import java.time.Duration;
 import java.util.List;
 
